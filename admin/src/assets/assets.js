@@ -14,8 +14,6 @@ export const assets ={
     parcel_icon
 }
 
-<<<<<<< HEAD
+
 export const url = 'https://bitecart-backend.onrender.com'
-=======
-export const url = 'https://bitecart-backend.onrender.com'
->>>>>>> 243c6479af130b69f0b7cbb2ee87fd6ce800968c
+
