@@ -12,6 +12,7 @@
 }
 .food-item-info{
     padding: 20px;
+    background-color: #bddcc7;
 }
 .food-item-name-rating{
     display: flex;
