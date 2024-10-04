@@ -15,5 +15,5 @@ export const assets ={
 }
 
 
-export const url = 'https://bitecart-backend.onrender.com'
+export const url = 'https://fooddelivery-mern-app-backend.onrender.com'
 
