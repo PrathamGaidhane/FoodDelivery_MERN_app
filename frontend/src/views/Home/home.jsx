@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <>
-      <div>
+      <div className='homejs'>
         <Header />
         <Exploremenu category={category} setCategory={setCategory} />
         <FoodDisplay category={category} />
